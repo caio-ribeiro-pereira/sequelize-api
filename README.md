@@ -3,7 +3,7 @@
 API de exemplo Node.js que utiliza os frameworks Sequelize 2.x e Express 4.x.
 
 ### Instalação
-`npm run create_db`
+`npm run create_db`  
 `npm install`
 
 ### Iniciar servidor
